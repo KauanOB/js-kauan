@@ -1,0 +1,35 @@
+/* Reset de Estilos (Opcional) */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para o corpo do documento */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Estilo para o cabeçalho (h1) */
+h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Estilo para parágrafos (p) */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+/* Estilo para links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
